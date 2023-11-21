@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 86d5e559d5c836a44a9ee2f62fc643cd
+guid: 40f2144f1bd055a40b0dd836b6d11f07
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,511 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dungeon_Character_0
+      name: loose sprites nobg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3383d0c2e96f9d744a9f50003d53cfde
+      internalID: -569009714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c08bedf9c8e574aba23846cffd7360
+      internalID: 1790294990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41221243d0216144783b6675faca2c1a
+      internalID: -1716420763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe6b50c5ff1c9f40ac76b8eb176d9bb
+      internalID: -170363966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e6c56dbace504c9e5c8af3f747e99
+      internalID: 2031814065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b605b0f5c4ac7924693dda3675f5f025
+      internalID: -985213238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b39bbc75199b4486239862e7a5333
+      internalID: -1298857785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874cb006fc4ab304ab2cb697177d5917
+      internalID: 1819130476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae215e4151c1e74690875d22a77b972
+      internalID: 1645467020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68006a446a28d2b408f46f80dde401f9
+      internalID: 1267825141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5846c83b37d60a446821c1c70c675a54
+      internalID: 1320245852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799a286a89ecd564b9af5d90fc45a461
+      internalID: -118190509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a0b95a94f79c4d85b92a1ef3c4d29
+      internalID: 1805848120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3a7616387bb94899d90bdd968a69a
+      internalID: -91057726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7429f7cf327b81141b7e5b9508165961
+      internalID: 1258342741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548aa778639f22f40b434bb01325cd68
+      internalID: -2071929330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43506ff6d2e5545a7a1b2416231a54
+      internalID: -1113550024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4312177a98747dd448f33e11bc26d564
+      internalID: -1156072030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5fb5ea5652aed4b9fc292610360830
+      internalID: -545613009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2e4de74b1a9143b32e243953207c5
+      internalID: -1772131597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a618ee4f60dd24408572855844377a4
+      internalID: -1995336009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa90c514e14ff499731ea2c6e9198a
+      internalID: -1531070271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd66a88c7128124db7c67b0032a6c32
+      internalID: -1907719417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c0480557e2ac41bc23210cbd93f05
+      internalID: -1577826686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loose sprites nobg_24
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +628,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f29d95313b33cf24292e9e10dbbe6a7f
-      internalID: -1302093273
+      spriteID: 42de76ee7c9503240ab73a95525ad291
+      internalID: -1069959346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_1
+      name: loose sprites nobg_25
       rect:
         serializedVersion: 2
         x: 16
@@ -145,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e478064ff524fca469c7d54e89c07f52
-      internalID: 2042516159
+      spriteID: 75d234176682638478b42009165f376b
+      internalID: -1136494537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_2
+      name: loose sprites nobg_26
       rect:
         serializedVersion: 2
         x: 32
@@ -166,14 +670,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12f64cb4dd39eb242830f09d9187bbf5
-      internalID: 636676627
+      spriteID: 5cfbdb1aad586f24db88ee5414c2314a
+      internalID: 965241211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_3
+      name: loose sprites nobg_27
       rect:
         serializedVersion: 2
         x: 48
@@ -187,77 +691,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b8192090b7eb2a4a9562f378f242ef6
-      internalID: -1107241319
+      spriteID: 0b6cea35fef78f84db6091436053569d
+      internalID: 292772304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85dae7b0a6a5b454ea30cf7837d2a389
-      internalID: 1123832583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5ec22833827a61478a4f1634a81a2ed
-      internalID: -945985009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b3956e939a41544497562704dc53cd0
-      internalID: 820369287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_7
+      name: loose sprites nobg_28
       rect:
         serializedVersion: 2
         x: 0
@@ -271,14 +712,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2fc6dd020de74c4b9c819be2f7b589a
-      internalID: -1027609365
+      spriteID: be95c8b8dffceb6408d007e581d148da
+      internalID: -1807763718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_8
+      name: loose sprites nobg_29
       rect:
         serializedVersion: 2
         x: 16
@@ -292,14 +733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd2a5312bf5802d4d99ba3fba8b998bf
-      internalID: -1529421580
+      spriteID: 44f377dfd50a8f6498b938945ad3d7dc
+      internalID: -1682307383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_9
+      name: loose sprites nobg_30
       rect:
         serializedVersion: 2
         x: 32
@@ -313,14 +754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a69da46eabfe45e44a6fb7bc760d9964
-      internalID: -1221205813
+      spriteID: a938dbf7cf8e0bc40b973633baad7cda
+      internalID: -1601948923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_10
+      name: loose sprites nobg_31
       rect:
         serializedVersion: 2
         x: 48
@@ -334,77 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34778d341a40c364fa202898c9cfd390
-      internalID: -612694095
+      spriteID: 43133f96503e4fd4ebb563dca835f401
+      internalID: 1126691581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_11
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f860a4082659e8547916e6464197cb1a
-      internalID: 1938900710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_12
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2af5f7a90da80c44da32f17025e4383f
-      internalID: -570810927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ccfd1b46c7d9b5a4ea1a2f1fad5970d8
-      internalID: -727805332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_14
+      name: loose sprites nobg_32
       rect:
         serializedVersion: 2
         x: 0
@@ -418,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b0ffe6176e9946459c0f9b1d7df209e
-      internalID: 765870995
+      spriteID: 1e1aacc715e3a9349be4d27c992d30d9
+      internalID: 981344424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_15
+      name: loose sprites nobg_33
       rect:
         serializedVersion: 2
         x: 16
@@ -439,14 +817,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22f7813c4850ad34c946bd163ad6638d
-      internalID: -1266291759
+      spriteID: f8a812858be3d614db412e07bc81c202
+      internalID: -1347866927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_16
+      name: loose sprites nobg_34
       rect:
         serializedVersion: 2
         x: 32
@@ -460,14 +838,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f97606898b4d912459f3ade371214416
-      internalID: 1938855909
+      spriteID: e23d5d6fe4d17c049ba8b60044959094
+      internalID: 1889529673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_17
+      name: loose sprites nobg_35
       rect:
         serializedVersion: 2
         x: 48
@@ -481,77 +859,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1288e8dd98e8c840bd9acc815350052
-      internalID: 676242290
+      spriteID: 1072cbb30e9a2274dad306a625f2a78f
+      internalID: 1248572934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_18
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b4780b584a1e76479ce80db845a818b
-      internalID: -1709825753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_19
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aad7bbc80f053c444b9c68656544991a
-      internalID: 1288841040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_20
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6c0d6363d08b1b45bd1e1ff875540a6
-      internalID: -1464652413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_21
+      name: loose sprites nobg_36
       rect:
         serializedVersion: 2
         x: 0
@@ -565,14 +880,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3632de7cbc314d64faa5dedc54270b30
-      internalID: -942431726
+      spriteID: 7914e45a822717c4f920af9a57e8e9c2
+      internalID: -1753727059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_22
+      name: loose sprites nobg_37
       rect:
         serializedVersion: 2
         x: 16
@@ -586,14 +901,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d9758c3d1e7585409fcaad6acf8db9c
-      internalID: -401121002
+      spriteID: fd3bfdab5a6d73945b4d53ff317905ac
+      internalID: -1887259812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_23
+      name: loose sprites nobg_38
       rect:
         serializedVersion: 2
         x: 32
@@ -607,14 +922,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfb434c2c7c28c14f8279a651a2286f2
-      internalID: -80937646
+      spriteID: 4e804dfdc6f057e4391a932a59f03033
+      internalID: -272172134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_Character_24
+      name: loose sprites nobg_39
       rect:
         serializedVersion: 2
         x: 48
@@ -628,71 +943,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 119d06cad9596654e83d59154d511b29
-      internalID: 1615365410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_25
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 564a9efc9a178cd40a6e62144dafa5cb
-      internalID: 792941564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_26
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b0a96869705f8f44a218dd941520678
-      internalID: 1861759262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_Character_27
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b1a90d51c3282241adffcfe47c53bb8
-      internalID: -448790221
+      spriteID: ba1876a9c3f5b59488d608b0cd455821
+      internalID: -925734225
       vertices: []
       indices: 
       edges: []
@@ -708,34 +960,46 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dungeon_Character_0: -1302093273
-      Dungeon_Character_1: 2042516159
-      Dungeon_Character_10: -612694095
-      Dungeon_Character_11: 1938900710
-      Dungeon_Character_12: -570810927
-      Dungeon_Character_13: -727805332
-      Dungeon_Character_14: 765870995
-      Dungeon_Character_15: -1266291759
-      Dungeon_Character_16: 1938855909
-      Dungeon_Character_17: 676242290
-      Dungeon_Character_18: -1709825753
-      Dungeon_Character_19: 1288841040
-      Dungeon_Character_2: 636676627
-      Dungeon_Character_20: -1464652413
-      Dungeon_Character_21: -942431726
-      Dungeon_Character_22: -401121002
-      Dungeon_Character_23: -80937646
-      Dungeon_Character_24: 1615365410
-      Dungeon_Character_25: 792941564
-      Dungeon_Character_26: 1861759262
-      Dungeon_Character_27: -448790221
-      Dungeon_Character_3: -1107241319
-      Dungeon_Character_4: 1123832583
-      Dungeon_Character_5: -945985009
-      Dungeon_Character_6: 820369287
-      Dungeon_Character_7: -1027609365
-      Dungeon_Character_8: -1529421580
-      Dungeon_Character_9: -1221205813
+      loose sprites nobg_0: -569009714
+      loose sprites nobg_1: 1790294990
+      loose sprites nobg_10: 1320245852
+      loose sprites nobg_11: -118190509
+      loose sprites nobg_12: 1805848120
+      loose sprites nobg_13: -91057726
+      loose sprites nobg_14: 1258342741
+      loose sprites nobg_15: -2071929330
+      loose sprites nobg_16: -1113550024
+      loose sprites nobg_17: -1156072030
+      loose sprites nobg_18: -545613009
+      loose sprites nobg_19: -1772131597
+      loose sprites nobg_2: -1716420763
+      loose sprites nobg_20: -1995336009
+      loose sprites nobg_21: -1531070271
+      loose sprites nobg_22: -1907719417
+      loose sprites nobg_23: -1577826686
+      loose sprites nobg_24: -1069959346
+      loose sprites nobg_25: -1136494537
+      loose sprites nobg_26: 965241211
+      loose sprites nobg_27: 292772304
+      loose sprites nobg_28: -1807763718
+      loose sprites nobg_29: -1682307383
+      loose sprites nobg_3: -170363966
+      loose sprites nobg_30: -1601948923
+      loose sprites nobg_31: 1126691581
+      loose sprites nobg_32: 981344424
+      loose sprites nobg_33: -1347866927
+      loose sprites nobg_34: 1889529673
+      loose sprites nobg_35: 1248572934
+      loose sprites nobg_36: -1753727059
+      loose sprites nobg_37: -1887259812
+      loose sprites nobg_38: -272172134
+      loose sprites nobg_39: -925734225
+      loose sprites nobg_4: 2031814065
+      loose sprites nobg_5: -985213238
+      loose sprites nobg_6: -1298857785
+      loose sprites nobg_7: 1819130476
+      loose sprites nobg_8: 1645467020
+      loose sprites nobg_9: 1267825141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

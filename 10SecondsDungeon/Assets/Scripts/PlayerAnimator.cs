@@ -4,30 +4,33 @@ using UnityEngine;
 
 public class PlayerAnimator : MonoBehaviour
 {
-    //References
     Animator am;
     PlayerMovement pm;
-    SpriteRenderer sr;
-
 
     // Start is called before the first frame update
     void Start()
     {
         am = GetComponent<Animator>();
         pm = GetComponent<PlayerMovement>();
-        sr = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (pm.moveDir.x != 0 || pm.moveDir.y != 0)
+        Vector2 moveDir = pm.moveDir;
+
+        if (moveDir.magnitude > 0.1f)
         {
             am.SetBool("Move", true);
+
+            am.SetFloat("Horizontal", moveDir.x);
+            am.SetFloat("Vertical", moveDir.y);
         }
         else
         {
             am.SetBool("Move", false);
+            am.SetFloat("Horizontal", 0f);
+            am.SetFloat("Vertical", 0f);
         }
     }
 }
