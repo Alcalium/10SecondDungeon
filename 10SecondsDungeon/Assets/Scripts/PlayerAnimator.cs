@@ -23,9 +23,21 @@ public class PlayerAnimator : MonoBehaviour
         {
             am.SetBool("Move", true);
 
-            am.SetFloat("Horizontal", moveDir.x);
-            am.SetFloat("Vertical", moveDir.y);
+
+            if (Mathf.Abs(moveDir.x) > Mathf.Abs(moveDir.y))
+            {
+                am.SetFloat("Horizontal", moveDir.x);
+            }
+            else if (Mathf.Abs(moveDir.y) > Mathf.Abs(moveDir.x))
+            {
+                am.SetFloat("Vertical", moveDir.y);
+            }
+            else
+            {
+                am.SetFloat("Horizontal", moveDir.x);
+            }
         }
+       
         else
         {
             am.SetBool("Move", false);
